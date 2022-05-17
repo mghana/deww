@@ -237,6 +237,8 @@ https://cdn.alarab.com/h264/171279_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/171562_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uTmZ5p" group-title="مسلسل التركي القاضي",الحلقةS01E04
 https://cdn.alarab.com/h264/171916_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uTmZ5p" group-title="مسلسل التركي القاضي",الحلقةS01E05
+https://cdn.alarab.com/h264/172304_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3KAFC3t" group-title="مسلسل التركي طبيب البلدة",الحلقةS01E01
 https://cdn.alarab.com/h264/170900_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3KAFC3t" group-title="مسلسل التركي طبيب البلدة",الحلقةS01E02
@@ -389,6 +391,8 @@ https://cdn.alarab.com/h264/171429_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/171566_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3t8wj4M" group-title="مسلسل التركي أبي",الحلقةS01E11
 https://cdn.alarab.com/h264/171918_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3t8wj4M" group-title="مسلسل التركي أبي",الحلقةS01E12
+https://cdn.alarab.com/h264/172309_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3q3f4zF" group-title="مسلسل التركي إبني",الحلقةS01E01
 https://cdn.alarab.com/h264/169797_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3q3f4zF" group-title="مسلسل التركي إبني",الحلقةS01E02
@@ -479,6 +483,8 @@ https://cdn.alarab.com/h264/171272_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/171503_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E23
 https://cdn.alarab.com/h264/171835_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E24
+https://cdn.alarab.com/h264/172287_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kn3Q6N" group-title="مسلسل التركي بربروس",الحلقةS01E01
 https://cdn.alarab.com/h264/167504_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kn3Q6N" group-title="مسلسل التركي بربروس",الحلقةS01E01
@@ -4123,6 +4129,8 @@ https://cdn.alarab.com/h264/171336_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/171563_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sIwT6M" group-title="مسلسل التركي التفاح الحرام",الحلقةS05E30
 https://cdn.alarab.com/h264/171915_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sIwT6M" group-title="مسلسل التركي التفاح الحرام",الحلقةS05E31
+https://cdn.alarab.com/h264/172303_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38VlVmK" group-title="مسلسل التركي منزلي",الحلقة 1
 https://cdn.alarab.com/h264/151632_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38VlVmK" group-title="مسلسل التركي منزلي",الحلقة 2
