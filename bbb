@@ -7,15 +7,15 @@ http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",1تعمل وقت المبارات المهمه
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",2تعمل وقت المبارات المهمه
-https://vsd130.mycdn.me:443/hls/2639994489425.m3u8/sig/AkB_3oyavoc/expires/1653847347216/srcIp/160.179.85.207/clientType/0/srcAg/CHROME_ANDROID/mid/4522654375505/2639994489425_fullhd/index.m3u8
+https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/kHqy946RJb5hy-KDuYG2NZ8VH5IadDZL31IZEMd8GoZWengGnCnNMXCCvWJ-4jUFuDgld9olSnbBzkykG9YsaQ/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/tm_dynamic_highlatency.m3u8?type=live&ctx=AAAAEIAYVskARxQ76wMTQ02Vh0omJrpiAgSQ2S5reN2mQeEb28-yCL66znBBaN8B&evt=28_1530608203594989569&exp=1653767947171&checksum=OwXlVfOFAuidUvqo&noredirect=true
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",3تعمل وقت المبارات المهمه
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DNrLeqmUXElnbu3r_TU3kB-nAVQz2rGtBBs3rPrWcoJ_0D37AQ1ysYjjej5KMI95Yjs_YYAl2rNjK3jMZ89lng/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",4تعمل وقت المبارات المهمه
-anscode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",5تعمل وقت المبارات المهمه
-jc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",6تعمل وقت المبارات المهمه
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DNrLeqmUXElnbu3r_TU3kB-nAVQz2rGtBBs3rPrWcoJ_0D37AQ1ysYjjej5KMI95Yjs_YYAl2rNjK3jMZ89lng/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",7تعمل وقت المبارات المهمه
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sjzZ7DFsJVmM6ZFuUD_wOb2oiF-M4hKWRO9zVeYczRiCz4RwE03MBy4kwMU7BkxXzlF0JucFTWlyvBXls2cezA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",8تعمل وقت المبارات المهمه
