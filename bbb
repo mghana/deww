@@ -8,12 +8,6 @@ http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
 https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/40e0e514c74dd6c81a4907f0ebaffab7.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 2 PRM SD
-https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/bfd724477847070a9fc3f951d51c31e9.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 3 PRM SD
-https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
-https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
 http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6131/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
