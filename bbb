@@ -6,6 +6,7 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",1تعمل وقت المبارات المهمه
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
 https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
@@ -54,3 +55,32 @@ https://rtmpsrv.speedclick.ps/beIN_Sports7_complexiptv/tracks-v1a1/mono.m3u8?tok
 http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6128/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN PREMIUM 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN PREMIUM 1 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/1.ts
+#EXTINF:-1 tvg-name="beIN PREMIUM 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",beIN PREMIUM 2 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/2.ts
+#EXTINF:-1 tvg-name="beIN PREMIUM 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",beIN PREMIUM 3 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/3.ts
+#EXTINF:-1 tvg-name="beIN SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN SPORT 1 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/4.ts
+#EXTINF:-1 tvg-name="beIN SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN SPORT 2 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/5.ts
+#EXTINF:-1 tvg-name="beIN SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN SPORT 3 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/6.ts
+#EXTINF:-1 tvg-name="beIN SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN SPORT 4 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/7.ts
+#EXTINF:-1 tvg-name="beIN PREMIUM 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN PREMIUM 1 fHD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/8.ts
+#EXTINF:-1 tvg-name="beIN PREMIUM 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",beIN PREMIUM 3 fHD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/9.ts
+#EXTINF:-1 tvg-name="beIN SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN SPORT 1 fHD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/10.ts
+#EXTINF:-1 tvg-name="beIN SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN SPORT 1 fHD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/11.ts
+#EXTINF:-1 tvg-name="beIN SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN SPORT 2 fHD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/12.ts
+#EXTINF:-1 tvg-name="beIN SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN SPORT 3 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/13.ts
+#EXTINF:-1 tvg-name="beIN SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN SPORT 4 HD
+http://213.202.230.51:25461/live/live_sport1/live_sport_ios/14.ts
