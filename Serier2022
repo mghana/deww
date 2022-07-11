@@ -160,6 +160,10 @@ https://fvideo6.ddns.me/vod5nn/beirut-303-11.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/beirut-303-12.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tzwxBv" group-title="00بيروت 303",الحلقةS01E13
 https://fvideo6.ddns.me/vod5nn/beirut-303-13.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tzwxBv" group-title="00بيروت 303",الحلقةS01E14
+https://fvideo6.ddns.me/vod5nn/beirut-303-14.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tzwxBv" group-title="00بيروت 303",الحلقةS01E15
+https://fvideo6.ddns.me/vod5nn/beirut-303-15.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/39G5pd6" group-title="00الوسم",الحلقةS01E01
 https://fvideo6b.ddns.me:443/vod5nn/alwasem-1-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/39G5pd6" group-title="00الوسم",الحلقةS01E02
@@ -400,10 +404,16 @@ https://fvideo6.ddns.me/2vod5n/salon-zahra-13.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/2vod5n/salon-zahra-14.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kmvY8T" group-title="00مسلسل صالون زهرة",الحلقةS01E15
 https://fvideo6.ddns.me/2vod5n/salon-zahra-15-f.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RBFBAu" group-title="مسلسل التركي اسمعني",الحلقةS01E01
+https://cdn.alarab.com/h264/173023_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3P40BOg" group-title="مسلسل التركي آه أين",الحلقةS01E01
 https://cdn.alarab.com/h264/172953_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3P40BOg" group-title="مسلسل التركي آه أين",الحلقةS01E02
+https://cdn.alarab.com/h264/173025_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NJEPxU" group-title="مسلسل التركي أخفيتك في قلبي",الحلقةS01E01
 https://cdn.alarab.com/h264/172950_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NJEPxU" group-title="مسلسل التركي أخفيتك في قلبي",الحلقةS01E02
+https://cdn.alarab.com/h264/173024_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3OxOmcX" group-title="مسلسل التركي الياقة المغبرة",الحلقةS01E01
 https://cdn.alarab.com/h264/172893_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3OxOmcX" group-title="مسلسل التركي الياقة المغبرة",الحلقةS01E02
@@ -412,6 +422,8 @@ https://cdn.alarab.com/h264/172975_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172878_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bCuKG0" group-title="مسلسل التركي النار التي بداخلنا",الحلقةS01E02
 https://cdn.alarab.com/h264/172952_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bCuKG0" group-title="مسلسل التركي النار التي بداخلنا",الحلقةS01E03
+https://cdn.alarab.com/h264/173026_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3A0tdDA" group-title="مسلسل التركي حكاية وردة",الحلقةS01E01
 https://cdn.alarab.com/h264/172816_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3A0tdDA" group-title="مسلسل التركي حكاية وردة",الحلقةS01E02
