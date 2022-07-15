@@ -8,6 +8,18 @@
  
 ياحيوانات بيكفي سرقه
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PrVkAb" group-title="00رجل في مواجهة نحلة",الحلقةS01E01
+https://cdn.alarab.com/h264/173041_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PrVkAb" group-title="00رجل في مواجهة نحلة",الحلقةS01E02
+https://cdn.alarab.com/h264/173044_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PrVkAb" group-title="00رجل في مواجهة نحلة",الحلقةS01E03
+https://cdn.alarab.com/h264/173059_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PrVkAb" group-title="00رجل في مواجهة نحلة",الحلقةS01E04
+https://cdn.alarab.com/h264/173060_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PrVkAb" group-title="00رجل في مواجهة نحلة",الحلقةS01E05
+https://cdn.alarab.com/h264/173061_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PrVkAb" group-title="00رجل في مواجهة نحلة",الحلقةS01E06
+https://cdn.alarab.com/h264/173090_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3R9Vfm9" group-title="00عيال نوف",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/3eal-nofal-1.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3R9Vfm9" group-title="00عيال نوف",الحلقةS01E02
@@ -476,6 +488,8 @@ https://cdn.alarab.com/h264/172845_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172934_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3msZRpB" group-title="مسلسل التركي سيعجبك",الحلقةS01E06
 https://cdn.alarab.com/h264/172997_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3msZRpB" group-title="مسلسل التركي سيعجبك",الحلقةS01E07
+https://cdn.alarab.com/h264/173072_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3MqwY8Y" group-title="مسلسل التركي ابتسم لقدرك",الحلقةS01E01
 https://cdn.alarab.com/h264/172167_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3MqwY8Y" group-title="مسلسل التركي ابتسم لقدرك",الحلقةS01E02
@@ -594,6 +608,8 @@ https://cdn.alarab.com/h264/172848_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172935_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38eUKVY" group-title="مسلسل التركي السبورة السوداء",الحلقةS01E12
 https://cdn.alarab.com/h264/172999_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38eUKVY" group-title="مسلسل التركي السبورة السوداء",الحلقةS01E13
+https://cdn.alarab.com/h264/173089_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3N61ANI" group-title="مسلسل التركي اسمه حب",الحلقةS01E01
 https://cdn.alarab.com/h264/170216_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3N61ANI" group-title="مسلسل التركي اسمه حب",الحلقةS01E02
