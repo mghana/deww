@@ -9,11 +9,11 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
 https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6131/index.m3u8
+http://185.9.2.18/c1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6131/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6123/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/0ff52ee92f18ce7a5b292000bd54b691.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 1 PRM SD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6123/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 PRM SD" tvg-logo="http://platprotv.xyz:8080/images/40e0e514c74dd6c81a4907f0ebaffab7.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEINSPORT 2 PRM SD
@@ -22,35 +22,29 @@ https://rtmpsrv.speedclick.ps/beIN_Sports2P_complexiptv/tracks-v1a1/mono.m3u8?to
 https://rtmpsrv.speedclick.ps/beIN_Sports3P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 1 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports1_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 1 HD
+http://185.9.2.18/c2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 2 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports2_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 2 HD
+http://185.9.2.18/c3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports3_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 HD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6124/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 HD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6124/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports4_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 HD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 HD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6125/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports5_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 HD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6126/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 HD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6126/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports6_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 HD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6127/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 HD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
 https://rtmpsrv.speedclick.ps/beIN_Sports7_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
-http://pi5b8gtd.akciatv.ru/iptv/UX5G3CTQ6CTDVC/6128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
 http://admiral.ottrast.com/iptv/FC6ZX6FZ4DZZM8/6128/index.m3u8
