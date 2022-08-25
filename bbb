@@ -28,3 +28,53 @@ http://31.14.40.50:8000/play/2005
 http://31.14.40.50:8000/play/2006
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 7
 http://31.14.40.50:8000/play/2007
+
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein10sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein1sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein2sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein3sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein4sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein5sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein6sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein7sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+
+#EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 HD France
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein14sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 HD France
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein15sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 France
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein16sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports English 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports English 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports English 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://31.172.87.55:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
