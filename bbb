@@ -10,7 +10,16 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://hegazyiptv5.com/live/sport/live/3.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS Prem 2
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
-
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 Türkiye
+http://135.181.1.143:8085/live/bein1/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 Türkiye
+http://135.181.1.143:8085/live/bein2/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 Türkiye
+http://135.181.1.143:8085/live/bein3/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4 Türkiye
+http://135.181.1.143:8085/live/bein4/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5 Türkiye
+http://135.181.1.143:8085/live/bein5/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
@@ -24,10 +33,25 @@ http://51.178.65.238:80/RMC2/index.m3u8
 http://51.178.65.238:80/RMC3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 4
 http://51.178.65.238:80/RMC4/index.m3u8
-
 #EXTINF:-1 group-title="RMC SPORT",beIN Sports 1 France
 http://51.178.65.238:80/Bein1/index.m3u8
 #EXTINF:-1 group-title="RMC SPORT",beIN Sports 2 France
 http://51.178.65.238:80/Bein2/index.m3u8
 #EXTINF:-1 group-title="RMC SPORT",beIN Sports 3 France
 http://51.178.65.238:80/Bein3/index.m3u8
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 4 🇫🇷
+http://37.235.38.139:4000/play/a085
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 5 🇫🇷
+http://37.235.38.139:4000/play/a086
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 6 🇫🇷
+http://37.235.38.139:4000/play/a087
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 7 🇫🇷
+http://37.235.38.139:4000/play/a090
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 8 🇫🇷
+http://37.235.38.139:4000/play/a091
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 9 🇫🇷
+http://37.235.38.139:4000/play/a092
+#EXTINF:-1 group-title="RMC SPORT",BEIN SPORTS MAX 10 🇫🇷
+http://37.235.38.139:4000/play/a093
+#EXTINF:-1 group-title="RMC SPORT",CANAL+ SPORT 🇫🇷
+http://37.235.38.139:4000/play/a005
