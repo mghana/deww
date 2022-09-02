@@ -10,17 +10,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://hegazyiptv5.com/live/sport/live/3.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS Prem 2
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1 Türkiye
-http://135.181.1.143:8085/live/bein1/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2 Türkiye
-http://135.181.1.143:8085/live/bein2/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3 Türkiye
-http://135.181.1.143:8085/live/bein3/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4 Türkiye
-http://135.181.1.143:8085/live/bein4/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5 Türkiye
-http://135.181.1.143:8085/live/bein5/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",كيف احصل على الكود
