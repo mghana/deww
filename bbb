@@ -10,23 +10,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://hegazyiptv5.com/live/sport/live/3.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS Prem 2
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6123/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6124/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6125/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6126/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6127/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6128/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3053" tvg-logo="http://epg.it999.ru/img/3053.png" tvg-rec="0",beIN Sports 8 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6129/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6131/index.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS PREMIUM 1
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/9
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS PREMIUM 2
@@ -34,44 +17,6 @@ http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/8
 #EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS PREMIUM 3
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/11
 
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="0",beIN Sports Max 1 FullHD
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/19062/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="6519" tvg-logo="http://epg.it999.ru/img2/6519.png" tvg-rec="0",beIN Sports Max 2 FullHD
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/19063/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="0",beIN Sports Haber HD
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/19064/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="0",beIN Sports Max 1 HD
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/19065/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="6519" tvg-logo="http://epg.it999.ru/img2/6519.png" tvg-rec="0",beIN Sports Max 2 HD
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/19066/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="3",beIN SPORTS HABER
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2322/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="3",beIN SPORTS HABER HD
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2323/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" tvg-rec="3",beIN Sports 1 HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6781/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3873" tvg-logo="http://epg.it999.ru/img/3873.png" tvg-rec="3",beIN Sports 1 (Yedek) HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6817/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6818/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" tvg-rec="3",beIN Sports 2 (Yedek) HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6819/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" tvg-rec="3",beIN Sports 3 HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6820/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" tvg-rec="3",beIN Sports 3 (Yedek) HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6821/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" tvg-rec="3",beIN Sports 4 HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6822/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" tvg-rec="3",beIN Sports 4 (Yedek) HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6823/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="3",beIN Sports Max 1 HD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6824/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="2618" tvg-logo="http://epg.it999.ru/img/2618.png" tvg-rec="3",beIN Sports Haber FHD TR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6939/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="5090" tvg-logo="http://epg.it999.ru/img/5090.png" tvg-rec="0",beIN Sports 1 HD EN
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6132/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="5091" tvg-logo="http://epg.it999.ru/img/5091.png" tvg-rec="0",beIN Sports 2 HD EN
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6133/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC SPORT",كيف احصل على الكود
@@ -106,19 +51,3 @@ http://37.235.38.139:4000/play/a092
 http://37.235.38.139:4000/play/a093
 #EXTINF:-1 group-title="RMC SPORT",CANAL+ SPORT 🇫🇷
 http://37.235.38.139:4000/play/a005
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2887" tvg-logo="http://epg.it999.ru/img/2887.png" tvg-rec="3",Canal+ Sport HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2502/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2928" tvg-logo="http://epg.it999.ru/img/2928.png" tvg-rec="3",Infosport+ HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2544/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2929" tvg-logo="http://epg.it999.ru/img/2929.png" tvg-rec="3",RMC Sport 1 HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2545/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2930" tvg-logo="http://epg.it999.ru/img/2930.png" tvg-rec="3",RMC Sport 2 HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2546/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2931" tvg-logo="http://epg.it999.ru/img/2931.png" tvg-rec="3",RMC Sport 3 HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2547/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2884" tvg-logo="http://epg.it999.ru/img/2884.png" tvg-rec="3",Bein Sports 1 HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2499/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2885" tvg-logo="http://epg.it999.ru/img/2885.png" tvg-rec="3",Bein Sports 2 HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2500/index.m3u8
-#EXTINF:0 group-title="RMC SPORT" tvg-id="2886" tvg-logo="http://epg.it999.ru/img/2886.png" tvg-rec="3",Bein Sports 3 HD FR
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/2501/index.m3u8
