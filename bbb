@@ -27,6 +27,13 @@ http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6129/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
 http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6131/index.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_01_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS PREMIUM 1
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/9
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_02_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS PREMIUM 2
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/8
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_03_PREMIUM_HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS PREMIUM 3
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/11
+
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" tvg-rec="0",beIN Sports Max 1 FullHD
 http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/19062/index.m3u8
 #EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="6519" tvg-logo="http://epg.it999.ru/img2/6519.png" tvg-rec="0",beIN Sports Max 2 FullHD
