@@ -8,23 +8,6 @@ http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",2تعمل وقت المبارات المهمه
 https://hegazyiptv5.com/live/sport/live/3.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3055" tvg-logo="http://epg.it999.ru/img/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6131/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3047" tvg-logo="http://epg.it999.ru/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6123/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3048" tvg-logo="http://epg.it999.ru/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6124/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3049" tvg-logo="http://epg.it999.ru/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6125/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3050" tvg-logo="http://epg.it999.ru/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6126/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3051" tvg-logo="http://epg.it999.ru/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6127/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3052" tvg-logo="http://epg.it999.ru/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6128/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-id="3053" tvg-logo="http://epg.it999.ru/img/3053.png" tvg-rec="0",beIN Sports 8 HD QA
-http://he11o.akadatel.com/iptv/RR8EZQ7AFT649D/6129/index.m3u8
-
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS Prem 2
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
