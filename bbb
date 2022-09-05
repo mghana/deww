@@ -8,10 +8,6 @@ http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",2تعمل وقت المبارات المهمه
 https://hegazyiptv5.com/live/sport/live/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sports Premium (AR)
-https://pull-hls-l11-va01.ttlivecdn.com/game/stream-2993836587341316196_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sports Premium (AR)+
-https://pull-hls-l11-va01.ttlivecdn.com/game/stream-2993836587341316196_uhd.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS Prem 2
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
 #EXTINF:-1 tvg-id="ext" group-title="RMC SPORT",SPORT CHANNELS
