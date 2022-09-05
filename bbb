@@ -24,6 +24,18 @@ http://51.178.65.238:80/RMC2/index.m3u8
 http://51.178.65.238:80/RMC3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="RMC SPORT",RMC Sports 4
 http://51.178.65.238:80/RMC4/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports 1ᴴᴰ
+http://37.235.38.139:4000/play/a054
+#EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports 2ᴴᴰ
+http://37.235.38.139:4000/play/a0cc
+#EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports Max 4ᴴᴰ
+http://37.235.38.139:4000/play/a085
+#EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports Max 5ᴴᴰ
+http://37.235.38.139:4000/play/a086
+#EXTINF:-1 tvg-id="" group-title="RMC SPORT" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ Bein Sports Max 6ᴴᴰ
+http://37.235.38.139:4000/play/a087
+
 #EXTINF:-1 group-title="RMC SPORT",beIN Sports 1 France
 http://51.178.65.238:80/Bein1/index.m3u8
 #EXTINF:-1 group-title="RMC SPORT",beIN Sports 2 France
