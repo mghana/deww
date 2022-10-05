@@ -34,6 +34,10 @@ https://cdn.alarab.com/h264/173704_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173795_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3QsRy9K" group-title="00العين بالعين",الحلقةS01E13
 https://cdn.alarab.com/h264/173796_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3QsRy9K" group-title="00العين بالعين",الحلقةS01E14
+https://cdn.alarab.com/h264/173849_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3QsRy9K" group-title="00العين بالعين",الحلقةS01E15
+https://cdn.alarab.com/h264/173850_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3BuZVxe" group-title="00ستيلتو",الحلقةS01E01
 https://cdn.alarab.com/h264/173728_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3BuZVxe" group-title="00ستيلتو",الحلقةS01E02
@@ -424,8 +428,6 @@ https://fvideo6.ddns.me/2vod5n/bar-nwaya-12.mp4/playlist.m3u8?/ss/
 https://fvideo6.ddns.me/2vod5n/bar-nwaya-13.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E14" tvg-logo="https://bit.ly/3myOrB4"group-title="مسلسل بارانويا",Paranoia S1E14
 https://fvideo6.ddns.me/2vod5n/bar-nwaya-14.mp4/playlist.m3u8?/ss/
-
-
 #EXTINF:-1 tvg-id="tvg-name=""shte-e-beirut S1E01" tvg-logo="https://bit.ly/3ErdJqY"group-title="مسلسل شتي يا بيروت",shte-e-beirut S1E01
 https://fvideo6.ddns.me/2vod5n/shte-e-beirut-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="tvg-name=""shte-e-beirut S1E02" tvg-logo="https://bit.ly/3ErdJqY"group-title="مسلسل شتي يا بيروت",shte-e-beirut S1E02
@@ -608,8 +610,20 @@ https://fvideo6.ddns.me/2vod5n/salon-zahra-13.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/2vod5n/salon-zahra-14.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kmvY8T" group-title="00مسلسل صالون زهرة",الحلقةS01E15
 https://fvideo6.ddns.me/2vod5n/salon-zahra-15-f.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3rFeI2x" group-title="مسلسل التركي حكاية خرافية",الحلقةS01E01
+https://cdn.alarab.com/h264/174018_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e8bemh" group-title="مسلسل التركي الطائر الرفراف",الحلقةS01E01
+https://cdn.alarab.com/h264/174016_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3SG8M5s" group-title="مسلسل التركي هذا العالم لا يسعني",الحلقةS01E01
+https://cdn.alarab.com/h264/174010_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3SG8M5s" group-title="مسلسل التركي هذا العالم لا يسعني",الحلقةS01E02
+https://cdn.alarab.com/h264/174012_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3rC5y7b" group-title="مسلسل التركي الخيانة",الحلقةS01E01
+https://cdn.alarab.com/h264/173964_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3r8bQeA" group-title="مسلسل التركي تلك الفتاة",الحلقةS01E01
-https://cdn.alarab.com/h264/173897_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/173897_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3r8bQeA" group-title="مسلسل التركي تلك الفتاة",الحلقةS01E02
+https://cdn.alarab.com/h264/174019_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zd4CcG" group-title="مسلسل التركي لتأتي الحياة كما تشاء",الحلقةS01E01
 https://cdn.alarab.com/h264/173213_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zd4CcG" group-title="مسلسل التركي لتأتي الحياة كما تشاء",الحلقةS01E02
@@ -628,12 +642,16 @@ https://cdn.alarab.com/h264/173707_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173759_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zd4CcG" group-title="مسلسل التركي لتأتي الحياة كما تشاء",الحلقةS01E09
 https://cdn.alarab.com/h264/173841_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3zd4CcG" group-title="مسلسل التركي لتأتي الحياة كما تشاء",الحلقةS01E10
+https://cdn.alarab.com/h264/173963_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RWAZUD" group-title="مسلسل التركي القليل من ضوء النهار",الحلقةS01E01
 https://cdn.alarab.com/h264/173726_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RWAZUD" group-title="مسلسل التركي القليل من ضوء النهار",الحلقةS01E02
 https://cdn.alarab.com/h264/173791_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RWAZUD" group-title="مسلسل التركي القليل من ضوء النهار",الحلقةS01E03
 https://cdn.alarab.com/h264/173877_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RWAZUD" group-title="مسلسل التركي القليل من ضوء النهار",الحلقةS01E04
+https://cdn.alarab.com/h264/174008_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3eyFDd7" group-title="مسلسل التركي المستأجر المثالي",الحلقةS01E01
 https://cdn.alarab.com/h264/173666_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3eyFDd7" group-title="مسلسل التركي المستأجر المثالي",الحلقةS01E02
@@ -642,6 +660,8 @@ https://cdn.alarab.com/h264/173757_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173792_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3eyFDd7" group-title="مسلسل التركي المستأجر المثالي",الحلقةS01E04
 https://cdn.alarab.com/h264/173892_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3eyFDd7" group-title="مسلسل التركي المستأجر المثالي",الحلقةS01E05
+https://cdn.alarab.com/h264/174011_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RBFBAu" group-title="مسلسل التركي اسمعني",الحلقةS01E01
 https://cdn.alarab.com/h264/173023_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3RBFBAu" group-title="مسلسل التركي اسمعني",الحلقةS01E02
@@ -714,6 +734,8 @@ https://cdn.alarab.com/h264/173712_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173768_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3OxOmcX" group-title="مسلسل التركي الياقة المغبرة",الحلقةS01E12
 https://cdn.alarab.com/h264/173870_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3OxOmcX" group-title="مسلسل التركي الياقة المغبرة",الحلقةS01E13
+https://cdn.alarab.com/h264/173976_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bCuKG0" group-title="مسلسل التركي النار التي بداخلنا",الحلقةS01E01
 https://cdn.alarab.com/h264/172878_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bCuKG0" group-title="مسلسل التركي النار التي بداخلنا",الحلقةS01E02
@@ -750,6 +772,8 @@ https://cdn.alarab.com/h264/173714_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173775_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3A0tdDA" group-title="مسلسل التركي حكاية وردة",الحلقةS01E13
 https://cdn.alarab.com/h264/173871_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3A0tdDA" group-title="مسلسل التركي حكاية وردة",الحلقةS01E14
+https://cdn.alarab.com/h264/173977_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bokVLH" group-title="مسلسل التركي وقت الحب",الحلقةS01E01
 https://cdn.alarab.com/h264/172817_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bokVLH" group-title="مسلسل التركي وقت الحب",الحلقةS01E02
@@ -838,6 +862,8 @@ https://cdn.alarab.com/h264/173756_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173811_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3msZRpB" group-title="مسلسل التركي سيعجبك",الحلقةS01E17
 https://cdn.alarab.com/h264/173868_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3msZRpB" group-title="مسلسل التركي سيعجبك",الحلقةS01E18
+https://cdn.alarab.com/h264/173980_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3MqwY8Y" group-title="مسلسل التركي ابتسم لقدرك",الحلقةS01E01
 https://cdn.alarab.com/h264/172167_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3MqwY8Y" group-title="مسلسل التركي ابتسم لقدرك",الحلقةS01E02
@@ -868,6 +894,8 @@ https://cdn.alarab.com/h264/172782_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173765_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PszSvQ" group-title="مسلسل التركي الطيبة",الحلقةS01E10
 https://cdn.alarab.com/h264/173844_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3PszSvQ" group-title="مسلسل التركي الطيبة",الحلقةS01E11
+https://cdn.alarab.com/h264/173969_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uTmZ5p" group-title="مسلسل التركي القاضي",الحلقةS01E01
 https://cdn.alarab.com/h264/171427_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uTmZ5p" group-title="مسلسل التركي القاضي",الحلقةS01E02
@@ -920,6 +948,8 @@ https://cdn.alarab.com/h264/173708_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173761_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3KAFC3t" group-title="مسلسل التركي طبيب البلدة",الحلقةS01E16
 https://cdn.alarab.com/h264/173842_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3KAFC3t" group-title="مسلسل التركي طبيب البلدة",الحلقةS01E17
+https://cdn.alarab.com/h264/173967_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Kx56Pu" group-title="مسلسل التركي الطفل سر أمه",الحلقةS01E01
 https://cdn.alarab.com/h264/170896_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Kx56Pu" group-title="مسلسل التركي الطفل سر أمه",الحلقةS01E02
@@ -1150,6 +1180,8 @@ https://cdn.alarab.com/h264/172561_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172605_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3t8wj4M" group-title="مسلسل التركي أبي",الحلقةS01E16
 https://cdn.alarab.com/h264/173890_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3t8wj4M" group-title="مسلسل التركي أبي",الحلقةS01E17
+https://cdn.alarab.com/h264/174009_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3q3f4zF" group-title="مسلسل التركي إبني",الحلقةS01E01
 https://cdn.alarab.com/h264/169797_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3q3f4zF" group-title="مسلسل التركي إبني",الحلقةS01E02
@@ -1216,6 +1248,8 @@ https://cdn.alarab.com/h264/172748_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173793_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/37s3lo1" group-title="مسلسل التركي ثلاث أخوات",الحلقةS01E18
 https://cdn.alarab.com/h264/173891_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/37s3lo1" group-title="مسلسل التركي ثلاث أخوات",الحلقةS01E19
+https://cdn.alarab.com/h264/174017_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E01
 https://panther-zone-tunepk-844107.b-cdn.net/streamable_videos/2021/11/09/16364342167ad78/16364342167ad78.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E02
@@ -1272,6 +1306,8 @@ https://cdn.alarab.com/h264/172552_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172601_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E28
 https://cdn.alarab.com/h264/173879_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E29
+https://cdn.alarab.com/h264/172552_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kn3Q6N" group-title="مسلسل التركي بربروس",الحلقةS01E01
 https://cdn.alarab.com/h264/167504_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kn3Q6N" group-title="مسلسل التركي بربروس",الحلقةS01E01
@@ -1894,6 +1930,8 @@ https://cdn.alarab.com/h264/172431_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172599_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Y730lK" group-title="مسلسل التركي القضاء",الحلقةS01E35
 https://cdn.alarab.com/h264/173848_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Y730lK" group-title="مسلسل التركي القضاء",الحلقةS01E36
+https://cdn.alarab.com/h264/173975_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kjrdgv" group-title="مسلسل التركي سرنا نحن الإثنان",الحلقةS01E01
 https://cdn.alarab.com/h264/167041_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3kjrdgv" group-title="مسلسل التركي سرنا نحن الإثنان",الحلقةS01E02
@@ -3050,6 +3088,8 @@ https://cdn.alarab.com/h264/173709_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/173766_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gBe3uO" group-title="مسلسل التركي أخوتي",الحلقةS01E59
 https://cdn.alarab.com/h264/173845_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gBe3uO" group-title="مسلسل التركي أخوتي",الحلقةS01E60
+https://cdn.alarab.com/h264/173974_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gBe3uO" group-title="مسلسل التركي المحارب 5",الحلقةS05E01
 https://cdn.alarab.com/h264/163600_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gBe3uO" group-title="مسلسل التركي المحارب 5",الحلقةS05E02
@@ -5036,6 +5076,8 @@ https://cdn.alarab.com/h264/172665_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/172723_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sIwT6M" group-title="مسلسل التركي التفاح الحرام",الحلقةS06E01
 https://cdn.alarab.com/h264/173878_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sIwT6M" group-title="مسلسل التركي التفاح الحرام",الحلقةS06E02
+https://cdn.alarab.com/h264/174007_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38VlVmK" group-title="مسلسل التركي منزلي",الحلقة 1
 https://cdn.alarab.com/h264/151632_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/38VlVmK" group-title="مسلسل التركي منزلي",الحلقة 2
