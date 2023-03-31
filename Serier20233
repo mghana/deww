@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3lWVIgR" group-title="00010قلبي اطمأن",الحلقةS06E01
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-30/studioROVMG.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3lWVIgR" group-title="00010قلبي اطمأن",الحلقةS06E02
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-31/studioGQSEN.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/409ILzd" group-title="00010رامز نيفر اند",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/ramez-m7emmad-ramadan-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/409ILzd" group-title="00010رامز نيفر اند",الحلقةS01E02
@@ -607,6 +609,8 @@ https://fvideo6.ddns.me/vod5nn/saqata-sahwan-5.mp4/playlist.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/saqata-sahwan-6.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nyoowZ" group-title="001م المصري رمضان2023سقط سهوا",الحلقةS01E07
 https://fvideo6.ddns.me/vod5nn/saqata-sahwan-7.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nyoowZ" group-title="001م المصري رمضان2023سقط سهوا",الحلقةS01E08
+https://fvideo6b.ddns.me/vod5nn/saqata-sahwan-8.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JDiMJj" group-title="001م المصري رمضان2023رشيد",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/rashed-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JDiMJj" group-title="001م المصري رمضان2023رشيد",الحلقةS01E02
@@ -625,6 +629,8 @@ https://fvideo6.ddns.me/vod5nn/rasheed-7.mp4/playlist.m3u8?/ss/
 https://fvideo6b.ddns.me/vod5nn/rasheed-8_muxed.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JDiMJj" group-title="001م المصري رمضان2023رشيد",الحلقةS01E09
 https://fvideo6.ddns.me/vod5nn/rasheed-9.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JDiMJj" group-title="001م المصري رمضان2023رشيد",الحلقةS01E10
+https://fvideo6.ddns.me/vod5nn/rashed-10.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/40xeSc2" group-title="001م المصري رمضان2023الكتيبة 101",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/katebe-101-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/40xeSc2" group-title="001م المصري رمضان2023الكتيبة 101",الحلقةS01E02
