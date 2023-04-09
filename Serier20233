@@ -19,7 +19,7 @@ https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-04-07/studioAPEWC.smil/ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3lWVIgR" group-title="00010قلبي اطمأن",الحلقةS06E10
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-04-08/studioUADTJ.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3lWVIgR" group-title="00010قلبي اطمأن",الحلقةS06E11
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/mp4:2023-04-09/studioERKNX.mp4/chunklist.m3u8?/ss/
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-04-09/studioERKNX.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/409ILzd" group-title="00010رامز نيفر اند",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/ramez-m7emmad-ramadan-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/409ILzd" group-title="00010رامز نيفر اند",الحلقةS01E02
@@ -830,6 +830,8 @@ https://fvideo6.ddns.me/vod5nn/ja3far-l3omda-15_muxed.mp4/chunk.m3u8?/ss/
 https://cdn.alarab.com/h264/176861_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JHoQkb" group-title="001م المصري رمضان2023جعفر",الحلقةS01E17
 https://cdn.alarab.com/h264/176896_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JHoQkb" group-title="001م المصري رمضان2023جعفر",الحلقةS01E18
+https://fvideo6b.ddns.me/vod5nn/ja3ft-al3omda-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Z7ls7L" group-title="001م المصري رمضان2023الأجهر",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/alajhr-1_muxed.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Z7ls7L" group-title="001م المصري رمضان2023الأجهر",الحلقةS01E02
@@ -866,6 +868,8 @@ https://fvideo6b.ddns.me/vod5nn/al-ajhar-16.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/ajhar-17.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Z7ls7L" group-title="001م المصري رمضان2023الأجهر",الحلقةS01E18
 https://cdn.alarab.com/h264/176895_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Z7ls7L" group-title="001م المصري رمضان2023الأجهر",الحلقةS01E19
+https://fvideo6b.ddns.me/vod5nn/ajhar-19.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TC0dty" group-title="001م المصري رمضان2023جميلة",الحلقةS01E01
 https://cdn.alarab.com/h264/176226_480p.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TC0dty" group-title="001م المصري رمضان2023جميلة",الحلقةS01E02
@@ -900,6 +904,8 @@ https://fvideo6.ddns.me/vod5nn/jameela-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/jameela-16.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TC0dty" group-title="001م المصري رمضان2023جميلة",الحلقةS01E17
 https://cdn.alarab.com/h264/176899_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TC0dty" group-title="001م المصري رمضان2023جميلة",الحلقةS01E18
+https://fvideo6b.ddns.me/vod5nn/jamela-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42APzYb" group-title="001م المصري رمضان2023رسالة الامام",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/resalat-l2emam-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42APzYb" group-title="001م المصري رمضان2023رسالة الامام",الحلقةS01E02
@@ -934,6 +940,8 @@ https://fvideo6.ddns.me/vod5nn/resalet-l2emam-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/resalet-l2emam-16.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42APzYb" group-title="001م المصري رمضان2023رسالة الامام",الحلقةS01E17
 https://fvideo6b.ddns.me/vod5nn/resalet-l2emam-17.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42APzYb" group-title="001م المصري رمضان2023رسالة الامام",الحلقةS01E18
+https://fvideo6b.ddns.me/vod5nn/resala-ela-almam-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ZgqGOt" group-title="001م المصري رمضان2023سره الباتع",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/saro-elbate3-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ZgqGOt" group-title="001م المصري رمضان2023سره الباتع",الحلقةS01E02
@@ -970,6 +978,8 @@ https://fvideo6.ddns.me/vod5nn/sero-lbate3-16.mp4/chunk.m3u8?/ss/
 https://fvideo6b.ddns.me/vod5nn/sero-lbate3-17.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ZgqGOt" group-title="001م المصري رمضان2023سره الباتع",الحلقةS01E18
 https://fvideo6b.ddns.me/vod5nn/sero-lbate3-18.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ZgqGOt" group-title="001م المصري رمضان2023سره الباتع",الحلقةS01E19
+https://fvideo6b.ddns.me/vod5nn/sero-albat3-19.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3M1TfMF" group-title="001م المصري رمضان2023ستهم",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/sethm-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3M1TfMF" group-title="001م المصري رمضان2023ستهم",الحلقةS01E02
@@ -2238,6 +2248,8 @@ https://fvideo6.ddns.me/vod5nn/mena-wfena-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/mena-wfena-16.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TGlrqw" group-title="001م الخليجي رمضان2023منا وفينا",الحلقةS01E17
 https://fvideo6b.ddns.me/vod5nn/mna-wfena-17_muxed.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TGlrqw" group-title="001م الخليجي رمضان2023منا وفينا",الحلقةS01E18
+https://fvideo6b.ddns.me/vod5nn/mena-wfena-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42Sm18M" group-title="001م الخليجي رمضان2023منهو ولدنا؟",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/manho-waladna-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42Sm18M" group-title="001م الخليجي رمضان2023منهو ولدنا؟",الحلقةS01E02
@@ -2272,6 +2284,8 @@ https://fvideo6.ddns.me/vod5nn/manho-waladna-2-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/manho-waladna-2-16.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42Sm18M" group-title="001م الخليجي رمضان2023منهو ولدنا؟",الحلقةS01E17
 https://fvideo6b.ddns.me/vod5nn/manho-waladna-2-17_muxed.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42Sm18M" group-title="001م الخليجي رمضان2023منهو ولدنا؟",الحلقةS01E18
+https://fvideo6b.ddns.me/vod5nn/mnho-wldna-2-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nqw84h" group-title="001م الخليجي رمضان2023منزل 12",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/manzl-12.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nqw84h" group-title="001م الخليجي رمضان2023منزل 12",الحلقةS01E02
@@ -2480,6 +2494,8 @@ https://fvideo6b.ddns.me/vod5nn/brodkat-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/brodkat-16.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/40CoWAt" group-title="001م الخليجي رمضان2023برودكات",الحلقةS01E17
 https://fvideo6.ddns.me/vod5nn/brodkat-17.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/40CoWAt" group-title="001م الخليجي رمضان2023برودكات",الحلقةS01E18
+https://fvideo6.ddns.me/vod5nn/brodcat-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42EZR9D" group-title="001م الخليجي رمضان2023طاش 19",الحلقةS01E01
 https://fvideo6b.ddns.me/vod5nn/tash-matash-19-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42EZR9D" group-title="001م الخليجي رمضان2023طاش 19",الحلقةS01E02
@@ -2514,6 +2530,8 @@ https://fvideo6b.ddns.me/vod5nn/tash-19-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/tash-19-16_muxed.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42EZR9D" group-title="001م الخليجي رمضان2023طاش 19",الحلقةS01E17
 https://fvideo6.ddns.me/vod5nn/tash-19-17.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42EZR9D" group-title="001م الخليجي رمضان2023طاش 19",الحلقةS01E18
+https://fvideo6.ddns.me/vod5nn/tash-19-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nxPSmD" group-title="001م الخليجي رمضان2023قالوا الاوليين",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/qalo-al-awaleyeen-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nxPSmD" group-title="001م الخليجي رمضان2023قالوا الاوليين",الحلقةS01E02
@@ -2587,6 +2605,8 @@ https://fvideo6b.ddns.me/vod5nn/7amed-7elo-4-15.mp4/chunk.m3u8?/ss/
 https://fvideo6.ddns.me/vod5nn/7amed-7elo-4-16.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42Oh40D" group-title="001م العراق رمضان2023حامض حلو",الحلقةS01E17
 https://fvideo6b.ddns.me/vod5nn/7amed-7elo-4-17.mp4/chunk.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/42Oh40D" group-title="001م العراق رمضان2023حامض حلو",الحلقةS01E18
+https://fvideo6b.ddns.me/vod5nn/7amd-7lo-4-18.mp4/chunk.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3KkzX4a" group-title="001م العراق رمضان2023خان الذهب",الحلقةS01E01
 https://fvideo6.ddns.me/vod5nn/khan-ldahab-1.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3KkzX4a" group-title="001م العراق رمضان2023خان الذهب",الحلقةS01E02
