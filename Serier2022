@@ -1499,6 +1499,8 @@ https://cdn.alarab.com/h264/176333_480p.mp4/playlist.m3u8?/ss/
 https://cdn.alarab.com/h264/176669_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gNO1Xr" group-title="مسلسل التركي الفخ",الحلقةS01E23
 https://cdn.alarab.com/h264/176669_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gNO1Xr" group-title="مسلسل التركي الفخ",الحلقةS01E24
+https://cdn.alarab.com/h264/177163_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Dhd26e" group-title="مسلسل التركي على مشارف الليل",الحلقةS01E01
 https://cdn.alarab.com/h264/174104_480p.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3Dhd26e" group-title="مسلسل التركي على مشارف الليل",الحلقةS01E02
@@ -1623,6 +1625,8 @@ https://cdn.alarab.com/h264/176288_480p.mp4/playlist.m3u8?/ss/
 https://cdn.alarab.com/h264/176593_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e8bemh" group-title="مسلسل التركي الطائر الرفراف",الحلقةS01E27
 https://cdn.alarab.com/h264/176949_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e8bemh" group-title="مسلسل التركي الطائر الرفراف",الحلقةS01E28
+https://cdn.alarab.com/h264/177161_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3SG8M5s" group-title="مسلسل التركي هذا العالم لا يسعني",الحلقةS01E01
 https://cdn.alarab.com/h264/174010_480p.mp4/playlist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3SG8M5s" group-title="مسلسل التركي هذا العالم لا يسعني",الحلقةS01E02
